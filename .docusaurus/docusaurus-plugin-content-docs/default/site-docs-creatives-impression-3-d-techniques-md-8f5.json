@@ -1,0 +1,26 @@
+{
+  "id": "creatives/impression3d/techniques",
+  "title": "Techniques",
+  "description": "",
+  "source": "@site/docs/creatives/impression3d/techniques.md",
+  "sourceDirName": "creatives/impression3d",
+  "slug": "/creatives/impression3d/techniques",
+  "permalink": "/creatives/impression3d/techniques",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1743430005000,
+  "frontMatter": {
+    "title": "Techniques"
+  },
+  "sidebar": "creativesSidebar",
+  "previous": {
+    "title": "Elegoo Saturn 3 Ultra 12K",
+    "permalink": "/creatives/impression3d/saturn"
+  },
+  "next": {
+    "title": "Réalité virtuelle",
+    "permalink": "/creatives/vr"
+  }
+}
